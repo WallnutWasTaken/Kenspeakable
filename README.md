@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Kenspeakable.
 - 👀 I’m interested in programming and technology!
 - 🌱 I’m currently learning the python programming language.
-- 📫 My email is: leecheeken2011@gmail.com
