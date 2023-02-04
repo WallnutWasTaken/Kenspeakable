@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Kenspeakable.
+- 👋 Hi, I’m @Wallnut
 - 👀 I’m interested in programming and technology!
 - 🌱 I’m currently learning the python programming language.
